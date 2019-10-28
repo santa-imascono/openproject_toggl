@@ -12,7 +12,7 @@ INSTRUCTIONS
 
 - The project name inside Toggl and OpenProject must to be the same.
 - The descripcion of the Toggl Entrie must to exist like a Module Name inside OpenProject
-- If the module to insert time not exist i create in every Projects a module called "Others" and the time expent will go to this module.
+- If the module to insert time not exist the script insert the time inside a module called "Others" and the time expent will go to this module. *This module must to be created in every projects*
 
 
 RECOMMENDED
